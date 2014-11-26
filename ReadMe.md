@@ -18,12 +18,12 @@ Our car should have the following:
 * seats
 * running
 * owner
-* previous_owners
+* previousOwners
 
 
 As a default a `new Car` should have the following values:
-* previous_owners should be an empty array, `[]`.
-* current_owner: should be `manufacturer`.
+* previousOwners should be an empty array, `[]`.
+* owner: should be `manufacturer`.
 * `running` should be false.
 
 We should also be able to do the following with our car.
